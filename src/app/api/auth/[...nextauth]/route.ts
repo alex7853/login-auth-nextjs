@@ -1,4 +1,4 @@
-export const runtime = "nodejs";
+export const runtime = "nodejs"; // Workaround, just to make it work with local database
 
-import { handlers } from "@/auth" // Referring to the auth.ts we just created
+import { handlers } from "@/auth"
 export const { GET, POST } = handlers
