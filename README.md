@@ -9,7 +9,7 @@ This is a simple project aimed at improvement and nothing special. It's built us
 
 ## Feedback
 
-If you have any feedback, please reach out to us at discord on alex283837363636373
+If you have any feedback, please reach out to me at discord on **alex283837363636373**
 
 
 ## 🔗 Links
